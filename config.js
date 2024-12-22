@@ -1,5 +1,5 @@
 
-global.botNumber = null // Ubah kalok mau tanpa input nomor
+global.botNumber = null // Masih ngebug pairing dari sini. nanti no nya masukin di console aja
 
 global.self = false
 
